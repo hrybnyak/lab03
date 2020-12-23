@@ -1,0 +1,13 @@
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\bin\Debug\netcoreapp3.1\lab03_Hrybniak.exe
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\bin\Debug\netcoreapp3.1\lab03_Hrybniak.deps.json
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\bin\Debug\netcoreapp3.1\lab03_Hrybniak.runtimeconfig.json
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\bin\Debug\netcoreapp3.1\lab03_Hrybniak.runtimeconfig.dev.json
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\bin\Debug\netcoreapp3.1\lab03_Hrybniak.dll
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\bin\Debug\netcoreapp3.1\lab03_Hrybniak.pdb
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\obj\Debug\netcoreapp3.1\lab03_Hrybniak.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\obj\Debug\netcoreapp3.1\lab03_Hrybniak.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\obj\Debug\netcoreapp3.1\lab03_Hrybniak.AssemblyInfoInputs.cache
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\obj\Debug\netcoreapp3.1\lab03_Hrybniak.AssemblyInfo.cs
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\obj\Debug\netcoreapp3.1\lab03_Hrybniak.dll
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\obj\Debug\netcoreapp3.1\lab03_Hrybniak.pdb
+C:\Users\Lisa\source\repos\lab03_Hrybniak\lab03_Hrybniak\obj\Debug\netcoreapp3.1\lab03_Hrybniak.genruntimeconfig.cache
